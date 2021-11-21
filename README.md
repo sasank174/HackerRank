@@ -45,3 +45,17 @@ Solutions of HackerRank.
 |	Tuples.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Tuples.py "code")	|
 |	What's_Your_Name.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/What's_Your_Name.py "code")	|
 |	Write_a_function.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+
+
+
+
+|	The_Minion_Game.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+|	String_Formatting.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+|	Merge_the_Tools!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+|	itertools.product().py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+|	itertools.permutations().py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+|	itertools.combinations().py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+|	Designer_Door_Mat.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+|	Compress_the_String!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+|	Capitalize!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+|	Alphabet_Rangoli.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|

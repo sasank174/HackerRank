@@ -67,10 +67,10 @@ if __name__ == '__main__':
         elif inp[0] == "remove":
             lst.remove(int(inp[1]))
         elif inp[0] == "pop":
-            lst.pop();
+            lst.pop()
         elif inp[0] == "append":
             lst.append(int(inp[1]))
         elif inp[0] == "sort":
-            lst.sort();
+            lst.sort()
         else:
-            lst.reverse();
+            lst.reverse()

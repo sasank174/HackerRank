@@ -1,3 +1,4 @@
+<center>
 # HackerRank
 
 Solutions of HackerRank.
@@ -43,3 +44,5 @@ Solutions of HackerRank.
 |	Tuples.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Tuples.py "code")	|
 |	What's_Your_Name.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/What's_Your_Name.py "code")	|
 |	Write_a_function.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
+
+<center>

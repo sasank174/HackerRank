@@ -2,7 +2,7 @@
 
 Solutions of HackerRank.
 
-<a src="https://sasank174.github.io/HackerRank/">Click here</a>
+[Click here](https://sasank174.github.io/HackerRank/ "link")
 
 ## 30 Days of Code
 

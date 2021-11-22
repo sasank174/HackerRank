@@ -45,17 +45,13 @@ Solutions of HackerRank.
 |	Tuples.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Tuples.py "code")	|
 |	What's_Your_Name.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/What's_Your_Name.py "code")	|
 |	Write_a_function.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Write_a_function.py "code")	|
-
-
-
-
 |	The_Minion_Game.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/The_Minion_Game.py "code")	|
-|	String_Formatting.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/String_Formatting.py"code")	|
-|	Merge_the_Tools!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Merge_the_Tools!.py"code")	|
-|	itertools.product().py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/itertools.product().py"code")	|
-|	itertools.permutations().py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/itertools.permutations().py"code")	|
-|	itertools.combinations().py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/itertools.combinations().py"code")	|
-|	Designer_Door_Mat.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Designer_Door_Mat.py"code")	|
-|	Compress_the_String!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Compress_the_String!.py"code")	|
-|	Capitalize!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Capitalize!.py"code")	|
-|	Alphabet_Rangoli.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Alphabet_Rangoli.py"code")	|
+|	String_Formatting.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/String_Formatting.py "code")	|
+|	Merge_the_Tools!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Merge_the_Tools!.py "code")	|
+|	itertools.product().py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/itertools.product().py "code")	|
+|	itertools.permutations().py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/itertools.permutations().py "code")	|
+|	itertools.combinations().py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/itertools.combinations().py "code")	|
+|	Designer_Door_Mat.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Designer_Door_Mat.py "code")	|
+|	Compress_the_String!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Compress_the_String!.py "code")	|
+|	Capitalize!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Capitalize!.py "code")	|
+|	Alphabet_Rangoli.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Alphabet_Rangoli.py "code")	|

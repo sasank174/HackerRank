@@ -19,6 +19,7 @@ Solutions of HackerRank.
 |       Day_7_Arrays.py |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_7_Arrays.py "code")	|
 |       Day_8_Dictionaries_and_Maps.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_8_Dictionaries_and_Maps.py "code")	|
 |       Day_9_Recursion_3.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_9_Recursion_3.py "code")	|
+|       Day_0_Hello,_World.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_0_Hello,_World.py "code")	|
 
 
 ## Python

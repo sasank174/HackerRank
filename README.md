@@ -25,6 +25,7 @@ Solutions of HackerRank.
 |       Day_13_Abstract_Classes.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_13_Abstract_Classes.py "code")	|
 |       Day_14_Scope.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_14_Scope.py "code")	|
 |       Day_15_Linked_List.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_15_Linked_List.py "code")	|
+|       Day_16_Exceptions_String_to_Integer.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_16_Exceptions_String_to_Integer.py "code")	|
 
 
 ## Python

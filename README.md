@@ -28,6 +28,7 @@ Solutions of HackerRank.
 |       Day_16_Exceptions_String_to_Integer.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_16_Exceptions_String_to_Integer.py "code")	|
 |       Day_17_More_Exceptions.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_17_More_Exceptions.py "code")	|
 |       Day_18_Queues_and_Stacks.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_18_Queues_and_Stacks.py "code")	|
+|       Day_19_Interfaces.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_19_Interfaces.py "code")	|
 
 
 ## Python

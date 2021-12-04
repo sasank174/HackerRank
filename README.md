@@ -30,7 +30,7 @@ Solutions of HackerRank.
 |       Day_18_Queues_and_Stacks.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_18_Queues_and_Stacks.py "code")	|
 |       Day_19_Interfaces.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_19_Interfaces.py "code")	|
 |       Day_20_Sorting.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_20_Sorting.py "code")	|
-|       Day_21_Generics.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_21_Generics.py "code")	|
+|       Day_21_Generics.cpp  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_21_Generics.cpp "code")	|
 
 
 ## Python

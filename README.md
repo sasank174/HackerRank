@@ -32,6 +32,7 @@ Solutions of HackerRank.
 |       Day_20_Sorting.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_20_Sorting.py "code")	|
 |       Day_21_Generics.cpp  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_21_Generics.cpp "code")	|
 |       Day_22_Binary_Search_Trees.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_22_Binary_Search_Trees.py "code")	|
+|       Day_23_BST_Level_Order_Traversal.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_23_BST_Level_Order_Traversal.py "code")	|
 
 
 ## Python

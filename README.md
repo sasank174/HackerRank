@@ -36,6 +36,7 @@ Solutions of HackerRank.
 |       Day_24_More_Linked_Lists.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_24_More_Linked_Lists.py "code")	|
 |       Day_25_Running_Time_and_Complexity.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_25_Running_Time_and_Complexity.py "code")	|
 |       Day_26_Nested_Logic.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_26_Nested_Logic.py "code")	|
+|       Day_27_Testing.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_27_Testing.py "code")	|
 
 
 ## Python

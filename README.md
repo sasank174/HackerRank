@@ -63,6 +63,7 @@ Solutions of HackerRank.
 |       Mini_Max_Sum.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Mini_Max_Sum.py "code")	|
 |       Birthday_Cake_Candles.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Birthday_Cake_Candles.py "code")	|
 |       Time_Conversion.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Time_Conversion.py "code")	|
+|       Grading_Students.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Grading_Students.py "code")	|
 
 
 ## **Python**

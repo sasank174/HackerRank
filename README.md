@@ -61,6 +61,7 @@ Solutions of HackerRank.
 |       Plus_Minus.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Plus_Minus.py "code")	|
 |       Staircase.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Staircase.py "code")	|
 |       Mini_Max_Sum.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Mini_Max_Sum.py "code")	|
+|       Birthday_Cake_Candles.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Birthday_Cake_Candles.py "code")	|
 
 
 ## **Python**

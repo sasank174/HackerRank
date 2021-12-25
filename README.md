@@ -4,6 +4,12 @@ Solutions of HackerRank.
 
 [Click here](https://sasank174.github.io/HackerRank/ "link")
 
+### Contents:
+
+- 30 Days of Code
+- Problem Solving
+- Python
+
 ## **30 Days of Code**
 
 

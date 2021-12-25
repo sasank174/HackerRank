@@ -65,6 +65,7 @@ Solutions of HackerRank.
 |       Time_Conversion.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Time_Conversion.py "code")	|
 |       Grading_Students.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Grading_Students.py "code")	|
 |       Apple_and_Orange.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Apple_and_Orange.py "code")	|
+|       Number_Line_Jumps.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Number_Line_Jumps.py "code")	|
 
 
 ## **Python**

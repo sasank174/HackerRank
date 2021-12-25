@@ -56,7 +56,7 @@ Solutions of HackerRank.
 |       Solve_Me_First.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Solve_Me_First.py "code")	|
 |       Simple_Array_Sum.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Simple_Array_Sum.py "code")	|
 |       Compare_the_Triplets.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Compare_the_Triplets.py "code")	|
-|       Solve_Me_First.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Solve_Me_First.py "code")	|
+|       A_Very_Big_Sum.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/A_Very_Big_Sum.py "code")	|
 |       Solve_Me_First.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Solve_Me_First.py "code")	|
 
 

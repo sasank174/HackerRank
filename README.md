@@ -60,6 +60,7 @@ Solutions of HackerRank.
 |       Diagonal_Difference.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Diagonal_Difference.py "code")	|
 |       Plus_Minus.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Plus_Minus.py "code")	|
 |       Staircase.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Staircase.py "code")	|
+|       Mini_Max_Sum.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Mini_Max_Sum.py "code")	|
 
 
 ## **Python**

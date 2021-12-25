@@ -47,7 +47,7 @@ Solutions of HackerRank.
 
 |	NAME	|	Link	|
 |	:------------	|	:---------------:	|
-|       Day_0_Hello,_World.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_0_Hello%2C_World.py "code")	|
+|       Solve_Me_First.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_0_Hello%2C_World.py "code")	|
 |       Day_1_Data_Types.py     |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_1_Data_Types.py "code")	|
 |       Day_2_Operators.py      |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_2_Operators.py "code")	|
 |       Day_3_Intro_to_Conditional_Statements.py        |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_3_Intro_to_Conditional_Statements.py "code")	|

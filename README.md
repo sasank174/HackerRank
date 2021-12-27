@@ -68,6 +68,7 @@ Solutions of HackerRank.
 |       Number_Line_Jumps.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Number_Line_Jumps.py "code")	|
 |       Between_Two_Sets.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Between_Two_Sets.py "code")	|
 |       Subarray_Division.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Subarray_Division.py "code")	|
+|       Divisible_Sum_Pairs.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Divisible_Sum_Pairs.py "code")	|
 
 
 ## **Python**

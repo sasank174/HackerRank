@@ -70,6 +70,7 @@ Solutions of HackerRank.
 |       Subarray_Division.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Subarray_Division.py "code")	|
 |       Divisible_Sum_Pairs.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Divisible_Sum_Pairs.py "code")	|
 |       Breaking_the_Records.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Breaking_the_Records.py "code")	|
+|       Migratory_Birds.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Migratory_Birds.py "code")	|
 
 
 ## **Python**

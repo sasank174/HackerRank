@@ -74,6 +74,7 @@ Solutions of HackerRank.
 |       Day_of_the_Programmer.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Day_of_the_Programmer.py "code")	|
 |       Bill_Division.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Bill_Division.py "code")	|
 |       Sales_by_Match.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Sales_by_Match.py "code")	|
+|       Drawing_Book.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Drawing_Book.py "code")	|
 
 
 ## **Python**

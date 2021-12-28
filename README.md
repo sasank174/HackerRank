@@ -76,6 +76,7 @@ Solutions of HackerRank.
 |       Sales_by_Match.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Sales_by_Match.py "code")	|
 |       Drawing_Book.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Drawing_Book.py "code")	|
 |       Counting_Valleys.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Counting_Valleys.py "code")	|
+|       Electronics_Shop.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Electronics_Shop.py "code")	|
 
 
 ## **Python**

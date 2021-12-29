@@ -79,6 +79,7 @@ Solutions of HackerRank.
 |       Electronics_Shop.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Electronics_Shop.py "code")	|
 |       Cats_and_a_Mouse.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Cats_and_a_Mouse.py "code")	|
 |       Picking_Numbers.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Picking_Numbers.py "code")	|
+|       Climbing_the_Leaderboard.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Climbing_the_Leaderboard.py "code")	|
 
 
 ## **Python**

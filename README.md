@@ -78,6 +78,7 @@ Solutions of HackerRank.
 |       Counting_Valleys.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Counting_Valleys.py "code")	|
 |       Electronics_Shop.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Electronics_Shop.py "code")	|
 |       Cats_and_a_Mouse.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Cats_and_a_Mouse.py "code")	|
+|       Picking_Numbers.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Picking_Numbers.py "code")	|
 
 
 ## **Python**

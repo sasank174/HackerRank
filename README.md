@@ -83,6 +83,7 @@ Solutions of HackerRank.
 |       The_Hurdle_Race.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/The_Hurdle_Race.py "code")	|
 |       Designer_PDF_Viewer.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Designer_PDF_Viewer.py "code")	|
 |       Utopian_Tree.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Utopian_Tree.py "code")	|
+|       Angry_Professor.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Angry_Professor.py "code")	|
 
 
 ## **Python**

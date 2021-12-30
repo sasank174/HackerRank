@@ -82,6 +82,7 @@ Solutions of HackerRank.
 |       Climbing_the_Leaderboard.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Climbing_the_Leaderboard.py "code")	|
 |       The_Hurdle_Race.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/The_Hurdle_Race.py "code")	|
 |       Designer_PDF_Viewer.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Designer_PDF_Viewer.py "code")	|
+|       Utopian_Tree.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Utopian_Tree.py "code")	|
 
 
 ## **Python**

@@ -84,6 +84,7 @@ Solutions of HackerRank.
 |       Designer_PDF_Viewer.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Designer_PDF_Viewer.py "code")	|
 |       Utopian_Tree.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Utopian_Tree.py "code")	|
 |       Angry_Professor.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Angry_Professor.py "code")	|
+|       Beautiful_Days_at_the_Movies.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Beautiful_Days_at_the_Movies.py "code")	|
 
 
 ## **Python**

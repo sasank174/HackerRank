@@ -85,6 +85,9 @@ Solutions of HackerRank.
 |       Utopian_Tree.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Utopian_Tree.py "code")	|
 |       Angry_Professor.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Angry_Professor.py "code")	|
 |       Beautiful_Days_at_the_Movies.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Beautiful_Days_at_the_Movies.py "code")	|
+|       Sequence_Equation.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Sequence_Equation.py "code")	|
+|       Save_the_Prisoner.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Save_the_Prisoner.py "code")	|
+|       Circular_Array_Rotation.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Circular_Array_Rotation.py "code")	|
 
 
 ## **Python**

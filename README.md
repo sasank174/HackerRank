@@ -91,6 +91,7 @@ Solutions of HackerRank.
 |       Jumping_on_the_Clouds_Revisited.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Jumping_on_the_Clouds_Revisited.py "code")	|
 |       Viral_Advertising.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Viral_Advertising.py "code")	|
 |       Find_Digits.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Find_Digits.py "code")	|
+|       Extra_Long_Factorials.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Extra_Long_Factorials.py "code")	|
 
 
 ## **Python**

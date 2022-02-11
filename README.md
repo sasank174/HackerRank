@@ -90,6 +90,7 @@ Solutions of HackerRank.
 |       Circular_Array_Rotation.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Circular_Array_Rotation.py "code")	|
 |       Jumping_on_the_Clouds_Revisited.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Jumping_on_the_Clouds_Revisited.py "code")	|
 |       Viral_Advertising.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Viral_Advertising.py "code")	|
+|       Find_Digits.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Find_Digits.py "code")	|
 
 
 ## **Python**

@@ -88,6 +88,7 @@ Solutions of HackerRank.
 |       Sequence_Equation.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Sequence_Equation.py "code")	|
 |       Save_the_Prisoner.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Save_the_Prisoner.py "code")	|
 |       Circular_Array_Rotation.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Circular_Array_Rotation.py "code")	|
+|       Jumping_on_the_Clouds_Revisited.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Jumping_on_the_Clouds_Revisited.py "code")	|
 
 
 ## **Python**

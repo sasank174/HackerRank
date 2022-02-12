@@ -92,6 +92,7 @@ Solutions of HackerRank.
 |       Viral_Advertising.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Viral_Advertising.py "code")	|
 |       Find_Digits.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Find_Digits.py "code")	|
 |       Extra_Long_Factorials.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Extra_Long_Factorials.py "code")	|
+|       Library_Fine.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Library_Fine.py "code")	|
 
 
 ## **Python**

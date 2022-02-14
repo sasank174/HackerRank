@@ -10,10 +10,12 @@ Solutions of HackerRank.
 - Problem Solving
 - Python
 
-## **30 Days of Code**
+<details>
+  <summary>30 Days of Code</summary>
+  
+  ## **30 Days of Code**
 
-
-|	NAME	|	Link	|
+  |	NAME	|	Link	|
 |	:------------	|	:---------------:	|
 |       Day_0_Hello,_World.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_0_Hello%2C_World.py "code")	|
 |       Day_1_Data_Types.py     |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_1_Data_Types.py "code")	|
@@ -45,13 +47,13 @@ Solutions of HackerRank.
 |       Day_27_Testing.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_27_Testing.py "code")	|
 |       Day_28_RegEx_Patterns_and_Intro_to_Databases.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_28_RegEx_Patterns_and_Intro_to_Databases.py "code")	|
 |       Day_29_Bitwise_AND.py  |	[code](https://github.com/sasank174/HackerRank/blob/main/30%20Days%20of%20Code/Day_29_Bitwise_AND.py "code")	|
+</details>
 
-
-
-## **Problem Solving**
-
-
-|	NAME	|	Link	|
+<details>
+  <summary>Problem Solving</summary>
+  
+  ## **Problem Solving**
+  |	NAME	|	Link	|
 |	:------------	|	:---------------:	|
 |       Solve_Me_First.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Solve_Me_First.py "code")	|
 |       Simple_Array_Sum.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Simple_Array_Sum.py "code")	|
@@ -96,11 +98,15 @@ Solutions of HackerRank.
 |       Cut_the_sticks.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Cut_the_sticks.py "code")	|
 |       Non_Divisible_Subset.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Non_Divisible_Subset.py "code")	|
 |       Repeated_String.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Repeated_String.py "code")	|
+</details>
 
 
-## **Python**
+<details>
+  <summary>Python</summary>
+  
+  ## **Python**
 
-|	NAME	|	Link	|
+  |	NAME	|	Link	|
 |	:------------	|	:---------------:	|
 |       Arithmetic_Operators.py |	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Arithmetic_Operators.py "code")	|
 |	Find_a_string.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Find_a_string.py "code")	|
@@ -133,3 +139,4 @@ Solutions of HackerRank.
 |	Compress_the_String!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Compress_the_String!.py "code")	|
 |	Capitalize!.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Capitalize!.py "code")	|
 |	Alphabet_Rangoli.py	|	[code](https://github.com/sasank174/HackerRank/blob/main/Python/Alphabet_Rangoli.py "code")	|
+</details>

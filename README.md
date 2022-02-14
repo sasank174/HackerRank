@@ -95,6 +95,7 @@ Solutions of HackerRank.
 |       Library_Fine.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Library_Fine.py "code")	|
 |       Cut_the_sticks.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Cut_the_sticks.py "code")	|
 |       Non_Divisible_Subset.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Non_Divisible_Subset.py "code")	|
+|       Repeated_String.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Repeated_String.py "code")	|
 
 
 ## **Python**

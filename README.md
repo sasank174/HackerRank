@@ -100,6 +100,7 @@ Solutions of HackerRank.
 |       Non_Divisible_Subset.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Non_Divisible_Subset.py "code")	|
 |       Repeated_String.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Repeated_String.py "code")	|
 |       Forming_a_Magic_Square.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Forming_a_Magic_Square.py "code")	|
+|       Append_and_Delete.py   |	[code](https://github.com/sasank174/HackerRank/blob/main/Problem%20Solving/Append_and_Delete.py "code")	|
 </details>
 
 <details>

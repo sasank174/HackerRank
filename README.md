@@ -9,6 +9,7 @@ Solutions of HackerRank.
 - 30 Days of Code
 - Problem Solving
 - Python
+- SQL
 
 <details>
   <summary>30 Days of Code</summary>
@@ -141,5 +142,28 @@ Solutions of HackerRank.
 | Compress_the_String!.py        |    [code](https://github.com/sasank174/HackerRank/blob/main/Python/Compress_the_String!.py "code")     |
 | Capitalize!.py                 |         [code](https://github.com/sasank174/HackerRank/blob/main/Python/Capitalize!.py "code")         |
 | Alphabet_Rangoli.py            |      [code](https://github.com/sasank174/HackerRank/blob/main/Python/Alphabet_Rangoli.py "code")       |
+
+</details>
+
+
+
+<details>
+  <summary>SQL</summary>
+  
+  ## **SQL**
+
+| NAME                           |                                                  Link                                                  |
+| :----------------------------- | :----------------------------------------------------------------------------------------------------: |
+| Revising_the_Select_Query_I.sql        |    [code](https://github.com/sasank174/HackerRank/blob/main/SQL/Revising_the_Select_Query_I.sql.py "code")     |
+| Revising_the_Select_Query_II.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Revising_the_Select_Query_II.sql "code")        |
+| Select_All.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Select_All.sql "code")        |
+| Select_By_ID.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Select_By_ID.sql "code")        |
+| Japanese_Cities_Attributes.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Japanese_Cities_Attributes.sql "code")        |
+| Japanese_Cities_Names.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Japanese_Cities_Names.sql "code")        |
+| Weather_Observation_Station_1.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_1.sql "code")        |
+| Weather_Observation_Station_3.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_3.sql "code")        |
+| Weather_Observation_Station_4.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_4.sql "code")        |
+| Weather_Observation_Station_5.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_5.sql "code")        |
+
 
 </details>

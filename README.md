@@ -164,6 +164,25 @@ Solutions of HackerRank.
 | Weather_Observation_Station_3.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_3.sql "code")        |
 | Weather_Observation_Station_4.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_4.sql "code")        |
 | Weather_Observation_Station_5.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_5.sql "code")        |
+| Weather_Observation_Station_6.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_6.sql "code")        |
+| Weather_Observation_Station_7.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_7.sql "code")        |
+| Weather_Observation_Station_8.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_8.sql "code")        |
+| Weather_Observation_Station_9.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_9.sql "code")        |
+| Weather_Observation_Station_10.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_10.sql "code")        |
+| Weather_Observation_Station_11.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_11.sql "code")        |
+| Higher_Than_75_Marks.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Higher_Than_75_Marks.sql "code")        |
+| Employee_Names.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Employee_Names.sql "code")        |
+| Employee_Salaries.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Employee_Salaries.sql "code")        |
+| Weather_Observation_Station_20.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_20.sql "code")        |
+| Weather_Observation_Station_2.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_2.sql "code")        |
+| Weather_Observation_Station_13.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_13.sql "code")        |
+| Weather_Observation_Station_14.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_14.sql "code")        |
+| Weather_Observation_Station_15.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_15.sql "code")        |
+| Weather_Observation_Station_16.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_16.sql "code")        |
+| Weather_Observation_Station_17.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_17.sql "code")        |
+| Weather_Observation_Station_18.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_18.sql "code")        |
+| Weather_Observation_Station_19.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/Weather_Observation_Station_19.sql "code")        |
+| The_Report.sql               |        [code](https://github.com/sasank174/HackerRank/blob/main/Python/The_Report.sql "code")        |
 
 
 </details>
